@@ -21,6 +21,7 @@ class _BottomNavigationCustomState extends State<BottomNavigationCustom> {
 
   List<Widget> listPages = [HomePage(), DetailPage()];
   int activePage = 0;
+  //asdfasd sf
 
   @override
   Widget build(BuildContext context) {

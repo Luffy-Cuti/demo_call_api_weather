@@ -152,6 +152,7 @@ class WeatherDetail {
   Main main;
   Weather weather;
   String dt_txt;
+  // helooosdfaosfaosdfoaskfo
 
   WeatherDetail({
     required this.main,
